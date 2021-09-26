@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<title>Homeworks page </title>
+<body style="background-color:yellow;">
+<br>
+<br>
+<center><h1>CPIT 405 Homeworks</h1></center>
+<pre><a href="homework1.html"><strong><b>Homework#1</b></strong></a>
+<a href="quizpage.html"><strong><b>Small Quiz#2</b></a></strong></a>
+
+<a href="homepage.html">
+<img src="home.png" alt="homepage"style="width:77px;height:77px;">
+</a></pre>
+
+<strong>Go back to homepage</strong></pre>
+</body>
+</html>
